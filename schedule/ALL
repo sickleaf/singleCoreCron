@@ -1,0 +1,5 @@
+### ALL
+ALL,0630,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,radioExercise 0.3 -60 
+ALL,2248,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,radioExercise 0.3 -60 
+ALL,2249,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,radioExercise 0.3 -60 
+ALL,2252,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,radioExercise 0.3 -60 

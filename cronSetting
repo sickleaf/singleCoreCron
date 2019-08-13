@@ -1,0 +1,1 @@
+*/1 * * * * bash ~/repository/scheduler/execSchedule.sh ~/repository/scheduler/schedule/
