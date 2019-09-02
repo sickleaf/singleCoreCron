@@ -1,10 +1,44 @@
-### Tue ###
-Tue,2248,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,gekka 0.3 -60 
-Tue,2248,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,recomen 0.3 -60 
-Tue,2249,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,gekka 0.3 -60 
-Tue,2249,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,recomen 0.3 -60 
-Tue,2252,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,gekka 0.3 -60 
-Tue,2252,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,recomen 0.3 -60 
 
-### Wed
-Wed,0830,/root/repository/scheduler/execEcho.sh,/root/log/echo.log,ij954 0.3 -60 
+
+### Tue ###
+
+Tue,0000,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 61 tokyopod /tmp
+Tue,0000,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh LFR 53 mcplus_Mon /tmp
+Tue,0100,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 121 ijuin /tmp
+Tue,0800,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh MBS 150 arigato1179_Tue /tmp
+Tue,0830,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 151 ij954_Tue /tmp
+Tue,1100,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 121 so954_Tue /tmp
+Tue,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 151 tama954_Tue /tmp
+Tue,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh YBS 210 kicks /tmp
+Tue,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh KBC 2 PAO~N_Tue /tmp
+Tue,1800,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 181 after6J_Tue /tmp
+Tue,1900,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh K-MIX 180 pinsoba_Tue /tmp
+Tue,1900,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh SBS 120 choco777 /tmp
+Tue,2000,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh MRO 30 MROsauna /tmp
+Tue,2100,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 30 aninyan /tmp
+Tue,2130,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh LOVEFM 90 gekka_Tue /tmp
+Tue,2200,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 115 ss954_Tue /tmp
+Tue,2300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh NACK5 30 ABreco /tmp
+
+### Wed ###
+
+Wed,0000,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 61 dcgAP /tmp
+Wed,0000,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh LFR 53 mcplus_Tue /tmp
+Wed,0100,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 121 bakusho /tmp
+Wed,0300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh LFR 91 creepyANN0 /tmp
+Wed,0800,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh MBS 150 arigato1179_Wed /tmp
+Wed,0830,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 151 ij954_Wed /tmp
+Wed,1040,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh FM_OKINAWA 15 blank_Wed /tmp
+Wed,1100,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 121 so954_Wed /tmp
+Wed,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh KBC 2 PAO~N_Wed /tmp
+Wed,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh QRR 150 goldenradio_Wed /tmp
+Wed,1300,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 151 tama954_Wed /tmp
+Wed,1530,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 121 action_Wed /tmp
+Wed,1800,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 181 after6J_Wed /tmp
+Wed,1900,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh K-MIX 180 pinsoba_Wed /tmp
+Wed,2130,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh LOVEFM 90 gekka_Wed /tmp
+Wed,2200,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh TBS 115 ss954_Wed /tmp
+Wed,2200,bash,/opt/log/singleCoreCron.log, /opt/script/recRadiko.sh ABC 180 yonayona /tmp
+
+### Thu ###
+
