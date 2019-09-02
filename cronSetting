@@ -1,1 +1,1 @@
-*/1 * * * * bash ~/repository/scheduler/execSchedule.sh ~/repository/scheduler/schedule/
+*/1 * * * * bash /opt/repository/singleCoreCron/execSchedule.sh /opt/repository/singleCoreCron/schedule/
