@@ -12,7 +12,7 @@ find ${schedulePath} -type f |
 while read f; do
 
 	cat ${f} | 
-	grep -E "${dateA}||ALL" |
+	grep -E "^${dateA}|^ALL" |
 	grep ${dateHHMM} |
 	while read d; do
 		cmd=`echo "${d}" | cut -d"," -f3`
