@@ -22,7 +22,7 @@ while read f; do
 	#	echo "[cmd]"${cmd}
 	#	echo "[redirect]"${redirect}
 	#	echo "[args]"${args}
-		nohup bash ${cmd} "${args}" >> ${redirect} &
+		nohup ${cmd} ${args} 2>&1 >> ${redirect} &
 	done
 
 done
